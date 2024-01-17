@@ -1,0 +1,4 @@
+Flask==1.1.2
+Authlib==0.15.3
+requests==2.26.0
+gunicorn
